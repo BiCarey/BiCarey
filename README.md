@@ -23,10 +23,15 @@ Biologist with 15 years of experience in environmental regulations and species c
 ![Static Badge](https://img.shields.io/badge/Canva-purple?logo=Canva&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Clipchamp-fuchsia?logo=Clipchamp&logoColor=white)
 
+### 🤝🏻 &nbsp;Connect with Me
+
+![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbiancachavezs%2F)
+![Static Badge](https://img.shields.io/badge/bianca.qa.chavez%40gmail.com-pink?style=for-the-badge&logo=gmail&link=bianca.qa.chavez%40gmail.com)
 
 
 
-📫 How to reach me: bianca.qa.chavez@gmail.com
+
+
 
 
 
